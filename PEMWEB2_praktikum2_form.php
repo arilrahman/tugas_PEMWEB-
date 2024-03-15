@@ -16,7 +16,7 @@
     </div>
   </div>
   <div class="form-group row">
-    <label for="text1" class="col-4 col-form-label">Nama Lengkap</label> 
+    <label for="nama" class="col-4 col-form-label">Nama Lengkap</label> 
     <div class="col-8">
       <div class="input-group">
         <div class="input-group-prepend">
@@ -24,7 +24,7 @@
             <i class="fa fa-address-book"></i>
           </div>
         </div> 
-        <input id="text1" name="text1" type="text" class="form-control">
+        <input id="nama" name="text1" type="nama" class="form-control">
       </div>
     </div>
   </div>
